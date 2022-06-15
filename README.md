@@ -1,0 +1,2 @@
+# webpack-contribp
+CoffeeScript Loader
